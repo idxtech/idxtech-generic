@@ -1,9 +1,0 @@
-com\github\idxtech\common\data\domain\Result.class
-com\github\idxtech\common\data\constraint\MobilePhone$List.class
-com\github\idxtech\common\data\domain\Page.class
-com\github\idxtech\common\data\constraint\IdCardNumber$List.class
-com\github\idxtech\common\data\constraint\IdCardNumberCheck.class
-com\github\idxtech\common\data\constraint\IdCardNumber.class
-com\github\idxtech\common\data\util\Validator.class
-com\github\idxtech\common\data\constraint\MobilePhone.class
-com\github\idxtech\common\data\constraint\MobilePhoneCheck.class
