@@ -1,2 +1,2 @@
 # idxtech-generic
-A collection of common components to develop faster.
+Collection of common components for rapid development.
